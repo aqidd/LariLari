@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#333333;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+#loginTitleRow{
+	background-color:#0071bc;
+}
+
+#loginTitle {
+	color:#FFFFFF;
+	font-weight:bold;
+	padding-left:5px;
+}
+
+input {
+	border-radius:5px;
+}
+
+input.textfield {
+	border-style:none;
+	padding: 5px 5px 5px 5px;
+}
+
+.button {
+	background-color:#736357;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding: 5px 10px 5px 10px;
+	border-style:none;
+	-moz-box-shadow: 0px 0px 0px #999;-webkit-box-shadow: 0px 0px 0px #999;
+	
+}
