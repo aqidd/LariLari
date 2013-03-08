@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	text-align:center;
+}
+
+div#badgeTitle {
+	width:25.3%;
+	text-align:center;
+	background-color:#cccccc;
+	margin: auto auto auto auto;
+}
+
+div#badgeTitle legend {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #534741;
+	padding:15px;
+}

@@ -26,6 +26,10 @@ body {
 	float: left;
 }
 
+div.formInput {
+	text-align:center
+}
+
 input {
 	border-radius:5px;
 }
@@ -33,7 +37,11 @@ input {
 input.textfield {
 	border-style:none;
 	padding: 10px;
-	width:25%
+	width:24%
+}
+
+div#buttonGroup {
+	margin-top:10px;
 }
 
 .button {
@@ -42,5 +50,5 @@ input.textfield {
 	font-weight:bold;
 	padding: 10px;
 	border-style: none;
-	width:13.1%;
+	width:12.7%;
 }
