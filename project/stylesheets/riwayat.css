@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	text-align:center;
+	width:100%;
+}
+
+#riwayatHeader {
+	margin-top:-8px;
+}
+
+img#tabProfil {
+	margin-left:-2px;
+}
+
+img#tabRiwayat {
+	margin-right:-2px;
+}
+
+img#riwayatBody {
+	margin-top:-5px;
+}
