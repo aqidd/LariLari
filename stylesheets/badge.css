@@ -3,13 +3,11 @@
 
 body {
 	text-align:center;
+	width:100%;
 }
 
-div#badgeTitle {
-	width:25.3%;
-	text-align:center;
-	background-color:#cccccc;
-	margin: auto auto auto auto;
+#badgeHeader {
+	margin-top:-8px;
 }
 
 div#badgeTitle legend {

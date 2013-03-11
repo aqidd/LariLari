@@ -3,5 +3,10 @@
 
 body {
 	text-align:center;
+	width:100%;
+}
+
+#startHeader {
+	margin-top:-8px;
 }
 
