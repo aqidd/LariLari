@@ -5,13 +5,17 @@ body {
 	text-align:center;
 }
 
+#profilHeader {
+	margin-top:-8px;
+}
+
 div#tabGroup {
 	margin: 0 auto 0 auto;
 }
 
 div#mulaiOr {
 	background-color:#333333;
-	width:23%;
+	width:90%;
 	border-radius:5px;
 	text-align:center;
 	margin: 10px auto auto auto;
